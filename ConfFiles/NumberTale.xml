@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <!-- 出力先ファイルパス -->
+  <outputPath>D:\Work\02.VisualStudioProjects\NumberTable\NumberTableTest\出力先ファイル\NumberTable.csv</outputPath>
+</settings>

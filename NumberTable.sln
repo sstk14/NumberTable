@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTable", "NumberTable\NumberTable.csproj", "{373DF439-5C33-4D5F-93A6-FA1E68F249AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTableTest", "NumberTableTest\NumberTableTest.csproj", "{1ED33895-981B-4A04-B3C8-FA2827DC0B8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConfFiles", "ConfFiles", "{CB22D055-6D55-4A49-8378-0A8C7E05D2CB}"
+	ProjectSection(SolutionItems) = preProject
+		ConfFiles\NumberTale.xml = ConfFiles\NumberTale.xml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{373DF439-5C33-4D5F-93A6-FA1E68F249AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{373DF439-5C33-4D5F-93A6-FA1E68F249AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{373DF439-5C33-4D5F-93A6-FA1E68F249AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED33895-981B-4A04-B3C8-FA2827DC0B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED33895-981B-4A04-B3C8-FA2827DC0B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED33895-981B-4A04-B3C8-FA2827DC0B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED33895-981B-4A04-B3C8-FA2827DC0B8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
